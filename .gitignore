@@ -1,0 +1,10 @@
+MNLI_trainer_galore.py
+MNLI_trainer_LTE.py
+run_MNLI_galore.sh
+run_MNLI_LTE.sh
+train_prune.py
+job/
+datasets/
+logs/
+model_MNLI/
+__pycache__/
