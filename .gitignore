@@ -6,5 +6,5 @@ train_prune.py
 job/
 datasets/
 logs/
-model_MNLI/
+models_MNLI/
 __pycache__/
